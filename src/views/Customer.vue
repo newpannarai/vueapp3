@@ -1,7 +1,7 @@
 <template>
   <v-container>
-     เกี่ยวกับเรา
-     </v-container>
+      ลูกค้า
+      </v-container>
 </template>
 
 <script>
